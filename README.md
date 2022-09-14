@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>cl</title>
-  </head>
-  <body>
-    <h1>hello world</h1>
-  </body>
-</html>
+<h1>hello world</h1>
+<h2>hello world</h2>
+<h3>hello world</h3>
